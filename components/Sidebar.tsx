@@ -18,7 +18,7 @@ export default function Sidebar() {
         <div className="w-7 h-7 rounded-lg bg-brand flex items-center justify-center shrink-0">
           <Sparkles size={15} className="text-white" strokeWidth={2.5} />
         </div>
-        <span className="font-semibold text-ink text-[15px]">VedaAI</span>
+        <span className="font-semibold text-ink text-[15px]">PeteAI</span>
       </div>
 
       <div className="px-4 pt-4">
@@ -50,7 +50,7 @@ export default function Sidebar() {
       <div className="m-4 rounded-xl bg-canvas border border-border p-4">
         <p className="text-xs font-medium text-ink mb-1">Invite your school</p>
         <p className="text-[11px] text-muted leading-snug mb-3">
-          Bring your colleagues onto VedaAI to grade together.
+          Bring your colleagues onto PeteAI to grade together.
         </p>
         <button className="w-full text-xs font-medium bg-ink text-white rounded-lg py-1.5 hover:bg-ink/90">
           Invite
